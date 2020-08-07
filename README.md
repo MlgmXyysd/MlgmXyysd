@@ -14,7 +14,7 @@
 
 ## 👯 Get in touch
 
-📫 [![](https://img.shields.io/badge/-@realMlgmXyysd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/realMlgmXyysd) [![](https://img.shields.io/badge/-http://mlgmxyysd.meowcat.org/-ffc6de?style=flat-square&logo=Blogger&logoColor=fff)](http://mlgmxyysd.meowcat.org/) [![](https://img.shields.io/badge/-t.me/MlgmXyysd_bibilailai-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/MlgmXyysd_bibilailai) [![](https://img.shields.io/badge/-mlgmxyysd@meowcat.org-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:mlgmxyysd_at_meowcat.org)
+📫 [![](https://img.shields.io/twitter/follow/realMlgmXyysd?color=1ca0f1&label=%40realMlgmXyysd&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/realMlgmXyysd) [![](https://img.shields.io/badge/-http://mlgmxyysd.meowcat.org/-ffc6de?style=flat-square&logo=Blogger&logoColor=fff)](http://mlgmxyysd.meowcat.org/) [![](https://img.shields.io/badge/-t.me/MlgmXyysd_bibilailai-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/MlgmXyysd_bibilailai) [![](https://img.shields.io/badge/-mlgmxyysd@meowcat.org-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:mlgmxyysd_at_meowcat.org)
 
 ----
 
