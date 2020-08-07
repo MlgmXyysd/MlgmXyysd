@@ -4,7 +4,7 @@
 
 # MlgmXyysd
 
-### Hi there 👋
+### Hi there 👋 This... It's me? Okay.
 💬 a.k.a. Jim Wu, Yuze Wu
 > A coder who is passionate about web technologies and open source.
 
