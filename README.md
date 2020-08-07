@@ -8,7 +8,7 @@
 💬 a.k.a. Jim Wu, Yuze Wu
 > ⚡ A coder who is passionate about web technologies and open source.
 
-🌱 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-Java-ce0000?style=flat-square&logo=Java&logoColor=fff) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff) ![](https://img.shields.io/badge/-PHP-8892bf?style=flat-square&logo=PHP&logoColor=fff)
+🌱 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-Java-ce0000?style=flat-square&logo=Java&logoColor=fff) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff) ![](https://img.shields.io/badge/-PHP-8892bf?style=flat-square&logo=PHP&logoColor=fff) ![](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 
 😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author:
 
