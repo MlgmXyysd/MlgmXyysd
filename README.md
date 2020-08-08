@@ -28,6 +28,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=Rabbit-Go-Countdown&show_owner=true" />
 </a>
 
+<a href="http://music.meowcat.org/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=MusicBox&show_owner=true" />
+</a>
 
 <!--
 ✨ If you like my projects, you can buy me a coffee at [![](https://img.shields.io/badge/-patreon-f96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/).
