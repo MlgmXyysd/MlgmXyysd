@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits=true&count_private=true">
 </a>
 
 # MlgmXyysd 🔭
@@ -9,7 +9,7 @@
 > ⚡ A coder who is passionate about web technologies and open source.
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 </a>
 
 🌱 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-Java-ce0000?style=flat-square&logo=Java&logoColor=fff) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff) ![](https://img.shields.io/badge/-PHP-8892bf?style=flat-square&logo=PHP&logoColor=fff) ![](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff) ![](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff) ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
