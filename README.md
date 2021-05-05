@@ -3,10 +3,14 @@
 # MlgmXyysd 🔭
 
 ### Hi there 👋 This... It's me? Okay.
-💬 a.k.a. Jim Wu, Yuze Wu
+💬 a.k.a. Jim Wu, Yuze Wu.
 > ⚡ A coder who is passionate about web technologies and open source.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
+
+- Chinese
+- Senior High School Student
+- Developer / Coder
 
 🌱
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
@@ -18,6 +22,7 @@
 ![C++](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 
 😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
 
