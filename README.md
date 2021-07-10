@@ -53,11 +53,13 @@
 
 ## 📱 Devices in use
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8T Cyberpunk 2077](https://img.shields.io/badge/OnePlus%208T%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8 Pro](https://img.shields.io/badge/OnePlus%208%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8](https://img.shields.io/badge/OnePlus%208-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 7T Pro McLaren](https://img.shields.io/badge/OnePlus%207T%20Pro%20McLaren-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 7 Pro 5G](https://img.shields.io/badge/OnePlus%207%20Pro%205G-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 6T McLaren](https://img.shields.io/badge/OnePlus%206T%20McLaren-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 6 Avengers](https://img.shields.io/badge/OnePlus%206%20Avengers-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 5T Star Wars](https://img.shields.io/badge/OnePlus%205T%20Star%20Wars-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 5 JCC+](https://img.shields.io/badge/OnePlus%205%20JCC%2B-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -66,7 +68,8 @@
 ![OnePlus X](https://img.shields.io/badge/OnePlus%20X-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 2](https://img.shields.io/badge/OnePlus%202-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OnePlus Watch](https://img.shields.io/badge/OnePlus%20Watch-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus Watch Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus Watch Cobalt](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Xiaomi Mi 6X Miku](https://img.shields.io/badge/Xiaomi%20Mi%206X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Max 2](https://img.shields.io/badge/Xiaomi%20Mi%20Max%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Pad 4 Plus](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%204%20Plus-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -85,12 +88,14 @@
 ![Apple iPhone 6s](https://img.shields.io/badge/Apple%20iPhone%206s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 5s](https://img.shields.io/badge/Apple%20iPhone%205s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Intel NUC NUC8i7HVK](https://img.shields.io/badge/Intel%20NUC%20NUC8i7HVK-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
+![Intel NUC NUC8i7BEH](https://img.shields.io/badge/Intel%20NUC%20NUC8i7BEH-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Microsoft Surface Pro 4](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Raspberry Pi 4 Model B](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Zero WH](https://img.shields.io/badge/Raspberry%20Pi%20Zero%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 
 
 ## 💰 Buy me a coffee
