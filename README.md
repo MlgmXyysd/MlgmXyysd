@@ -39,10 +39,8 @@
 [![Personal Blog](https://img.shields.io/badge/-https://mlgmxyysd.meowcat.org/-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://mlgmxyysd.meowcat.org/)
 [![Telegram Channel](https://img.shields.io/badge/-t.me/MlgmXyysd_bibilailai-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/MlgmXyysd_bibilailai)
 [![E-Mail](https://img.shields.io/badge/-mlgmxyysd@meowcat.org-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:mlgmxyysd_at_meowcat.org)
-
-![Genshin Impact](https://genshin-card.getloli.com/1/194801330.png)
-![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png)
-
+<!-- ![Genshin Impact](https://genshin-card.getloli.com/1/194801330.png) -->
+<!-- ![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png) -->
 ## 💻 Working environment
 ![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 20.04.2 LTS](https://img.shields.io/badge/Ubuntu%2020.04.2%20LTS-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
