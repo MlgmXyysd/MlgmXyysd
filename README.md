@@ -4,13 +4,18 @@
 
 ### Hi there 👋 This... It's me? Okay.
 💬 a.k.a. Jim Wu, Yuze Wu.
-> ⚡ A coder who is passionate about web technologies and open source.
+> ⚡ A cat who is passionate about technologies, open-source, intelligence, convenience, etc.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
-- Chinese
-- Senior High School Student
-- Developer / Coder
+- A cat, Meow~~~
+- Chinese / 18 y.o. / Senior High School Student
+- zh-CN / en-US / ~~ja-JP~~
+- Programmer / Developer / Coder
+- Games lover (real / virtual)
+- Electronic devices collector
+
+💖 Let's give it a shot! Go on and catch the dream!
 
 🌱
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
@@ -26,6 +31,8 @@
 ![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 
 😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
+
+😠 I hate Kotlin.
 
 ## 📫 Get in touch
 
