@@ -52,13 +52,14 @@
 ## 💻 Working environment
 ![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Android 12 Beta 3.1](https://img.shields.io/badge/Android%2012%20Beta%203.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 12 Beta 4.1](https://img.shields.io/badge/Android%2012%20Beta%203.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 ![iOS 14.7.1](https://img.shields.io/badge/iOS%2014.7.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 <!-- ![macOS Big Sur 11.2.3](https://img.shields.io/badge/macOS%20Big%20Sur%2011.2.3-000000?style=flat-square&logo=macos&logoColor=ffffff) -->
 
 ## 📱 Devices in use
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8T Cyberpunk 2077](https://img.shields.io/badge/OnePlus%208T%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8 Pro](https://img.shields.io/badge/OnePlus%208%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
