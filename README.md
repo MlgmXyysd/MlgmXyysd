@@ -50,14 +50,15 @@
 <!-- ![Genshin Impact](https://genshin-card.getloli.com/1/194801330.png) -->
 <!-- ![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png) -->
 ## 💻 Working environment
-![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Android 12 Beta 5](https://img.shields.io/badge/Android%2012%20Beta%203.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android Snow Cone](https://img.shields.io/badge/Android%20Snow%20Cone-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 ![iOS 14.7.1](https://img.shields.io/badge/iOS%2014.7.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 <!-- ![macOS Big Sur 11.2.3](https://img.shields.io/badge/macOS%20Big%20Sur%2011.2.3-000000?style=flat-square&logo=macos&logoColor=ffffff) -->
 
 ## 📱 Devices in use
+![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -77,7 +78,7 @@
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Watch Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Watch Cobalt](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OPPO Watch 2 42mm](https://img.shields.io/badge/OPPO%20Watch%202%2042mm-0f743d?style=flat-square)
+![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
 ![OPPO Watch 46mm](https://img.shields.io/badge/OPPO%20Watch%2046mm-0f743d?style=flat-square)
 ![Duoqin Qin F21 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro-03e2c9?style=flat-square)
 ![Duoqin Qin K201](https://img.shields.io/badge/Duoqin%20Qin%20K201-03e2c9?style=flat-square)
