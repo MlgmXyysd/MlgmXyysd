@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Meow~&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 # MlgmXyysd 🔭
 
@@ -6,13 +6,14 @@
 💬 a.k.a. Jim Wu, Yuze Wu.
 > ⚡ A cat who is passionate about technologies, open-source, intelligence, convenience, etc.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Meow~&count_private=true">
 
 - A cat, Meow~~~
 - Chinese / 19 y.o. / Senior High School Student
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
-- Games lover (real / virtual)
+- Amateur tipster
+- Real / Virtual Games lover
 - Electronic devices collector
 
 💖 Let's give it a shot! Go on and catch the dream!
@@ -110,7 +111,6 @@
 ![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Zero WH](https://img.shields.io/badge/Raspberry%20Pi%20Zero%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
-
 
 ## 💰 Buy me a coffee
 ✨ If you like my projects, you can buy me a coffee at:
