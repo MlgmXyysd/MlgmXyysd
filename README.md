@@ -12,6 +12,7 @@
 - Chinese / 19 y.o. / Senior High School Student
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
+- XDA Recognized Developer
 - Amateur tipster
 - Real / Virtual Games lover
 - Electronic devices collector
@@ -37,6 +38,7 @@
 
 ## 📫 Get in touch
 
+[![Personal Website](https://img.shields.io/badge/-MlgmXyysd's%20Cat%20Nest-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://www.neko.ink/)
 [![Twitter](https://img.shields.io/twitter/follow/realMlgmXyysd?color=1ca0f1&label=%40realMlgmXyysd&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/realMlgmXyysd)
 [![FaceBook](https://img.shields.io/badge/-@realMlgmXyysd-1877f2?style=flat-square&logo=facebook&logoColor=white&labelColor=1877f2)](https://www.facebook.com/realMlgmXyysd)
 [![Sina Weibo](https://img.shields.io/badge/-@MlgmXyysd-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/MlgmXyysd)
@@ -52,11 +54,12 @@
 <!-- ![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png) -->
 ## 💻 Working environment
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows Server 2019 Datacenter](https://img.shields.io/badge/Windows%20Server%202019%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Android Snow Cone](https://img.shields.io/badge/Android%20Snow%20Cone-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android Snow Cone 12](https://img.shields.io/badge/Android%20Snow%20Cone%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
-![iOS 14.7.1](https://img.shields.io/badge/iOS%2014.7.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-<!-- ![macOS Big Sur 11.2.3](https://img.shields.io/badge/macOS%20Big%20Sur%2011.2.3-000000?style=flat-square&logo=macos&logoColor=ffffff) -->
+![iOS 15.1](https://img.shields.io/badge/iOS%2015.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS Monterey 12.0.1](https://img.shields.io/badge/macOS%20Monterey%2012.0.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
 ## 📱 Devices in use
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -79,8 +82,11 @@
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Watch Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Watch Cobalt](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OPPO Reno 7 Pro](https://img.shields.io/badge/OPPO%20Reno%207%20Pro-0f743d?style=flat-square)
 ![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
 ![OPPO Watch 46mm](https://img.shields.io/badge/OPPO%20Watch%2046mm-0f743d?style=flat-square)
+![Realme Q3](https://img.shields.io/badge/Realme%20Q3-ffca14?style=flat-square)
+![Duoqin Qin F21 Pro+](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro+-03e2c9?style=flat-square)
 ![Duoqin Qin F21 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro-03e2c9?style=flat-square)
 ![Duoqin Qin K201](https://img.shields.io/badge/Duoqin%20Qin%20K201-03e2c9?style=flat-square)
 ![Duoqin Qin 2 Pro](https://img.shields.io/badge/Duoqin%20Qin%202%20Pro-03e2c9?style=flat-square)
@@ -93,6 +99,8 @@
 ![Xiaomi Mi AIoT Router AX3600](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX3600-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi WiFi Router HD](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20HD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi WiFi Router Pro](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Unihertz Jelly 2](https://img.shields.io/badge/Unihertz%20Jelly%202-241f21?style=flat-square)
+![Meizu 15](https://img.shields.io/badge/Meizu%2015-048dff?style=flat-square)
 ![HTC 5G Hub](https://img.shields.io/badge/HTC%205G%20Hub-99cc33?style=flat-square)
 ![Google Pixel 4 XL](https://img.shields.io/badge/Google%20Pixel%204%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel XL](https://img.shields.io/badge/Google%20Pixel%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
@@ -107,6 +115,7 @@
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Microsoft Surface Pro 4](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
+![Funhouse F10 MPro](https://img.shields.io/badge/Funhouse%20F10%20MPro-5e5e5e?style=flat-square)
 ![Raspberry Pi 4 Model B](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Zero WH](https://img.shields.io/badge/Raspberry%20Pi%20Zero%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
