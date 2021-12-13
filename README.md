@@ -50,8 +50,8 @@
 [![Personal Blog](https://img.shields.io/badge/-https://mlgmxyysd.meowcat.org/-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://mlgmxyysd.meowcat.org/)
 [![Telegram Channel](https://img.shields.io/badge/-t.me/MlgmXyysd_bibilailai-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/MlgmXyysd_bibilailai)
 [![E-Mail](https://img.shields.io/badge/-mlgmxyysd@meowcat.org-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:mlgmxyysd_at_meowcat.org)
-<!-- ![Genshin Impact](https://genshin-card.getloli.com/1/194801330.png) -->
-<!-- ![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png) -->
+![Genshin Impact](https://genshin-card.getloli.com/1/194801330.png)
+![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png)
 ## 💻 Working environment
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows Server 2019 Datacenter](https://img.shields.io/badge/Windows%20Server%202019%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
@@ -101,6 +101,7 @@
 ![Xiaomi Mi WiFi Router Pro](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Unihertz Jelly 2](https://img.shields.io/badge/Unihertz%20Jelly%202-241f21?style=flat-square)
 ![Meizu 15](https://img.shields.io/badge/Meizu%2015-048dff?style=flat-square)
+![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square)
 ![HTC 5G Hub](https://img.shields.io/badge/HTC%205G%20Hub-99cc33?style=flat-square)
 ![Google Pixel 4 XL](https://img.shields.io/badge/Google%20Pixel%204%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel XL](https://img.shields.io/badge/Google%20Pixel%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
