@@ -60,8 +60,8 @@
 ![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Snow Cone 12](https://img.shields.io/badge/Android%20Snow%20Cone%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
-![iOS 15.1](https://img.shields.io/badge/iOS%2015.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-![macOS Monterey 12.0.1](https://img.shields.io/badge/macOS%20Monterey%2012.0.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
+![iOS 15.2](https://img.shields.io/badge/iOS%2015.2-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS Monterey 12.1](https://img.shields.io/badge/macOS%20Monterey%2012.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
 ## 📱 Devices in use
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
