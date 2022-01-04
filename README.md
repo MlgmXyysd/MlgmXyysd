@@ -47,7 +47,6 @@
 [![XDA Developers](https://img.shields.io/badge/-mlgmxyysd-f59812?style=flat-square&logo=xda-developers&logoColor=white&labelColor=f59812)](https://forum.xda-developers.com/member.php?u=8430637)
 [![Youtube](https://img.shields.io/badge/-Yuze%20Wu-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCvYU9ryXnBfNuNUomVqWbBA)
 [![Steam](https://img.shields.io/badge/-mlgmxyysd-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/mlgmxyysd)
-[![Personal Blog](https://img.shields.io/badge/-https://mlgmxyysd.meowcat.org/-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://mlgmxyysd.meowcat.org/)
 [![Telegram Channel](https://img.shields.io/badge/-t.me/MlgmXyysd_bibilailai-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/MlgmXyysd_bibilailai)
 [![E-Mail](https://img.shields.io/badge/-mlgmxyysd@meowcat.org-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:mlgmxyysd_at_meowcat.org)
 
