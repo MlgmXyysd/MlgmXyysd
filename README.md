@@ -106,7 +106,6 @@
 ![Google Pixel XL](https://img.shields.io/badge/Google%20Pixel%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![ZTE U880](https://img.shields.io/badge/ZTE%20U880-008fd5?style=flat-square)
 ![Huawei Honor 4X](https://img.shields.io/badge/Huawei%20Honor%204X-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-02-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Onyx BOOX Note X](https://img.shields.io/badge/Onyx%20BOOX%20Note%20X-BE735B?style=flat-square)
 ![Apple iPhone 6s](https://img.shields.io/badge/Apple%20iPhone%206s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 5s](https://img.shields.io/badge/Apple%20iPhone%205s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
