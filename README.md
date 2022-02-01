@@ -65,11 +65,13 @@
 ![macOS Monterey 12.1](https://img.shields.io/badge/macOS%20Monterey%2012.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
 ## 📱 Devices in use
+
+### Phone
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OnePlus Nord 2 PAC-MAN](https://img.shields.io/badge/OnePlus%20Nord%202%20PAC%2dMAN-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus Nord 2 PAC-MAN](https://img.shields.io/badge/OnePlus%20Nord%202%20PAC_MAN-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8T Cyberpunk 2077](https://img.shields.io/badge/OnePlus%208T%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8 Pro](https://img.shields.io/badge/OnePlus%208%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8](https://img.shields.io/badge/OnePlus%208-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -84,13 +86,8 @@
 ![OnePlus X](https://img.shields.io/badge/OnePlus%20X-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 2](https://img.shields.io/badge/OnePlus%202-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OnePlus Watch Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OnePlus Watch Cobalt](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OPPO Reno 7 Pro](https://img.shields.io/badge/OPPO%20Reno%207%20Pro-0f743d?style=flat-square)
 ![OPPO R831T](https://img.shields.io/badge/OPPO%20R831T-0f743d?style=flat-square)
-![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
-![OPPO Watch 46mm](https://img.shields.io/badge/OPPO%20Watch%2046mm-0f743d?style=flat-square)
-![OPPO Band](https://img.shields.io/badge/OPPO%20Band-0f743d?style=flat-square)
 ![Realme Q3](https://img.shields.io/badge/Realme%20Q3-ffca14?style=flat-square)
 ![Duoqin Qin F21 Pro+](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro+-03e2c9?style=flat-square)
 ![Duoqin Qin F21 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro-03e2c9?style=flat-square)
@@ -100,37 +97,61 @@
 ![Xiaomi Mi Max 2](https://img.shields.io/badge/Xiaomi%20Mi%20Max%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Pad 4 Plus](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%204%20Plus-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 4X Miku](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%204X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Mi Watch Premium](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%20Premium-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Mi Band 4 NFC](https://img.shields.io/badge/Xiaomi%20Mi%20Band%204%20NFC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Mi AIoT Router AX3600](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX3600-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Mi WiFi Router HD](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20HD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Mi WiFi Router Pro](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Unihertz TickTock](https://img.shields.io/badge/Unihertz%20TickTock-241f21?style=flat-square)
 ![Unihertz Jelly 2](https://img.shields.io/badge/Unihertz%20Jelly%202-241f21?style=flat-square)
 ![Samsung Galaxy Trend Duos II](https://img.shields.io/badge/Samsung%20Galaxy%20Trend%20Duos%20II-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Samsung Galaxy S](https://img.shields.io/badge/Samsung%20Galaxy%20S-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Meizu 15](https://img.shields.io/badge/Meizu%2015-048dff?style=flat-square)
-![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square)
-![HTC 5G Hub](https://img.shields.io/badge/HTC%205G%20Hub-99cc33?style=flat-square)
 ![Google Pixel 4 XL](https://img.shields.io/badge/Google%20Pixel%204%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel XL](https://img.shields.io/badge/Google%20Pixel%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
-![Google Glass Explorer Edition XE-C](https://img.shields.io/badge/Google%20Glass%20Explorer%20Edition%20XE_C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![ZTE U880](https://img.shields.io/badge/ZTE%20U880-008fd5?style=flat-square)
 ![Huawei Honor 4X](https://img.shields.io/badge/Huawei%20Honor%204X-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Huawei Watch 2 Pro](https://img.shields.io/badge/Huawei%20Watch%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Huawei Watch 2 Porsche Design](https://img.shields.io/badge/Huawei%20Watch%202%20Porsche%20Design-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Huawei 4G Mobile Router 2 Pro](https://img.shields.io/badge/Huawei%204G%20Mobile%20Router%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Apple iPhone 6s](https://img.shields.io/badge/Apple%20iPhone%206s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 5s](https://img.shields.io/badge/Apple%20iPhone%205s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
+
+### Watch / Wearable / Band / Others
+![Huawei Watch 2 Pro](https://img.shields.io/badge/Huawei%20Watch%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei Watch 2 Porsche Design](https://img.shields.io/badge/Huawei%20Watch%202%20Porsche%20Design-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Xiaomi Mi Watch Premium](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%20Premium-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
+![OPPO Watch 46mm](https://img.shields.io/badge/OPPO%20Watch%2046mm-0f743d?style=flat-square)
+
+![Google Glass Explorer XE-C](https://img.shields.io/badge/Google%20Glass%20Explorer%20Edition%20XE_C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
+
+![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square)
+![Hisense ULED TV VIDAA-93](https://img.shields.io/badge/Hisense%20ULED%20TV%20VIDAA_93-00A19C?style=flat-square)
+
+![OPPO Band](https://img.shields.io/badge/OPPO%20Band-0f743d?style=flat-square)
+![Xiaomi Mi Band 4 NFC](https://img.shields.io/badge/Xiaomi%20Mi%20Band%204%20NFC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![OnePlus Watch Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus Watch Cobalt](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+
+### Router
+![HTC 5G Hub](https://img.shields.io/badge/HTC%205G%20Hub-99cc33?style=flat-square)
+![Huawei 4G Mobile Router 2 Pro](https://img.shields.io/badge/Huawei%204G%20Mobile%20Router%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei Mobile WiFi 2 Mini](https://img.shields.io/badge/Huawei%20Mobile%20WiFi%202%20Mini-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![GL.iNet Mudi](https://img.shields.io/badge/GL.iNet%20Mudi-00DBB8?style=flat-square)
+
+![Xiaomi Mi AIoT Router AX3600](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX3600-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi WiFi Router HD](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20HD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi WiFi Router Pro](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![GL.iNet Flint](https://img.shields.io/badge/GL.iNet%20Flint-00DBB8?style=flat-square)
+
+### Computer / Demoboard
 ![Intel NUC NUC8i7HVK](https://img.shields.io/badge/Intel%20NUC%20NUC8i7HVK-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Microsoft Surface Pro 4](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Funhouse F10 MPro](https://img.shields.io/badge/Funhouse%20F10%20MPro-5e5e5e?style=flat-square)
+
+![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Raspberry Pi 4 Model B](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Zero WH](https://img.shields.io/badge/Raspberry%20Pi%20Zero%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![BBC Micro:bit](https://img.shields.io/badge/BBC%20Micro:bit-00ED00?style=flat-square&logo=micro:bit&logoColor=ffffff)
+![M5Stack Stick C](https://img.shields.io/badge/M5Stack%20Stick%20C-0069A3?style=flat-square)
+![M5Stack Stick V](https://img.shields.io/badge/M5Stack%20Stick%20C-0069A3?style=flat-square)
 
 ## 💰 Buy me a coffee
 ✨ If you like my projects, you can buy me a coffee at:
