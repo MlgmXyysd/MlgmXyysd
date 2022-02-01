@@ -3,7 +3,7 @@
 # MlgmXyysd 🔭
 
 ### Hi there 👋 This... It's me? Okay.
-💬 a.k.a. Jim Wu, Yuze Wu.
+💬 a.k.a. Jaida Wu, Yuze Wu.
 > ⚡ A cat who is passionate about technologies, open-source, intelligence, convenience, etc.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
@@ -19,20 +19,22 @@
 
 💖 Let's give it a shot! Go on and catch the dream!
 
-🌱
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
+😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
+
+## 🌱 Programming languages
+
+![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
+![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
-![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
-
-😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 
 😠 I hate Kotlin.
 
@@ -67,6 +69,7 @@
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus Nord 2 PAC-MAN](https://img.shields.io/badge/OnePlus%20Nord%202%20PAC%2dMAN-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8T Cyberpunk 2077](https://img.shields.io/badge/OnePlus%208T%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8 Pro](https://img.shields.io/badge/OnePlus%208%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 8](https://img.shields.io/badge/OnePlus%208-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
