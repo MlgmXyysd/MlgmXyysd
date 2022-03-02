@@ -152,7 +152,7 @@
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![BBC Micro:bit](https://img.shields.io/badge/BBC%20Micro:bit-00ED00?style=flat-square&logo=micro:bit&logoColor=ffffff)
 ![M5Stack Stick C](https://img.shields.io/badge/M5Stack%20Stick%20C-0069A3?style=flat-square)
-![M5Stack Stick V](https://img.shields.io/badge/M5Stack%20Stick%20C-0069A3?style=flat-square)
+![M5Stack Stick V](https://img.shields.io/badge/M5Stack%20Stick%20V-0069A3?style=flat-square)
 
 ## 💰 Buy me a coffee
 ✨ If you like my projects, you can buy me a coffee at:
