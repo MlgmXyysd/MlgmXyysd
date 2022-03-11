@@ -3,6 +3,7 @@
 # MlgmXyysd 🔭
 
 ### Hi there 👋 This... It's me? Okay.
+
 💬 a.k.a. Jaida Wu, Yuze Wu.
 > ⚡ A cat who is passionate about technologies, open-source, intelligence, convenience, etc.
 
@@ -13,20 +14,20 @@
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
 - XDA Recognized Developer
-- Amateur tipster
-- Real / Virtual Games lover
-- Electronic devices collector
+- Amateur Tipster
+- Real / Virtual Games Lover
+- Electronic Devices Collector
 
 💖 Let's give it a shot! Go on and catch the dream!
 
-😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
+😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio), [@Project-Kaleidoscope](https://github.com/Project-Kaleidoscope) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
 
-## 🌱 Programming languages
+## 🌱 Programming Languages
 
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
 ![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
-![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
@@ -35,12 +36,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
+![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
-😠 I hate Kotlin.
+😠 ~~I hate Kotlin.~~
 
-## 📫 Get in touch
+## 📫 Get in Touch
 
-[![Personal Website](https://img.shields.io/badge/-MlgmXyysd's%20Cat%20Nest-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://www.neko.ink/)
+(Recommended!) You can find my other contact here -> [![Personal Website](https://img.shields.io/badge/-MlgmXyysd's%20Cat%20Nest-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://www.neko.ink/)
+
 [![Twitter](https://img.shields.io/twitter/follow/realMlgmXyysd?color=1ca0f1&label=%40realMlgmXyysd&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/realMlgmXyysd)
 [![FaceBook](https://img.shields.io/badge/-@realMlgmXyysd-1877f2?style=flat-square&logo=facebook&logoColor=white&labelColor=1877f2)](https://www.facebook.com/realMlgmXyysd)
 [![Sina Weibo](https://img.shields.io/badge/-@MlgmXyysd-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/MlgmXyysd)
@@ -55,18 +58,20 @@
 ![Genshin Impact](https://genshin-card.getloli.com/1/194801330.png)
 ![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png)
 
-## 💻 Working environment
+## 💻 Working Environment
+
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows Server 2019 Datacenter](https://img.shields.io/badge/Windows%20Server%202019%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Android Snow Cone 12](https://img.shields.io/badge/Android%20Snow%20Cone%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Snow%20Cone%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
-![iOS 15.2](https://img.shields.io/badge/iOS%2015.2-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-![macOS Monterey 12.1](https://img.shields.io/badge/macOS%20Monterey%2012.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
+![iOS 15.3.1](https://img.shields.io/badge/iOS%2015.2-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS Monterey 12.2.1](https://img.shields.io/badge/macOS%20Monterey%2012.2.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
-## 📱 Devices in use
+## 📱 Devices in Use
 
 ### Phone / Pad
+
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -111,13 +116,15 @@
 ![Apple iPhone 5s](https://img.shields.io/badge/Apple%20iPhone%205s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
 ### Watch / Wearable / Band / Others
+
 ![Huawei Watch 2 Pro](https://img.shields.io/badge/Huawei%20Watch%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Watch 2 Porsche Design](https://img.shields.io/badge/Huawei%20Watch%202%20Porsche%20Design-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Xiaomi Mi Watch Premium](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%20Premium-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
 ![OPPO Watch 46mm](https://img.shields.io/badge/OPPO%20Watch%2046mm-0f743d?style=flat-square)
 
-![Google Glass Explorer XE-C](https://img.shields.io/badge/Google%20Glass%20Explorer%20Edition%20XE_C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
+![Google Glass Enterprise Edition 1](https://img.shields.io/badge/Google%20Glass%20Enterprise%20Edition%201-4285f4?style=flat-square&logo=google&logoColor=ffffff)
+![Google Glass Explorer Edition XE-C](https://img.shields.io/badge/Google%20Glass%20Explorer%20Edition%20XE_C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 
 ![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square)
 ![Hisense ULED TV VIDAA-93](https://img.shields.io/badge/Hisense%20ULED%20TV%20VIDAA_93-00A19C?style=flat-square)
@@ -128,6 +135,7 @@
 ![OnePlus Watch Cobalt](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 
 ### Router / WiFi
+
 ![HTC 5G Hub](https://img.shields.io/badge/HTC%205G%20Hub-99cc33?style=flat-square)
 ![Huawei 4G Mobile Router 2 Pro](https://img.shields.io/badge/Huawei%204G%20Mobile%20Router%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Mobile WiFi 2 Mini](https://img.shields.io/badge/Huawei%20Mobile%20WiFi%202%20Mini-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
@@ -139,6 +147,7 @@
 ![GL.iNet Flint](https://img.shields.io/badge/GL.iNet%20Flint-00DBB8?style=flat-square)
 
 ### Computer / Demoboard
+
 ![Intel NUC NUC8i7HVK](https://img.shields.io/badge/Intel%20NUC%20NUC8i7HVK-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
@@ -154,10 +163,26 @@
 ![M5Stack Stick C](https://img.shields.io/badge/M5Stack%20Stick%20C-0069A3?style=flat-square)
 ![M5Stack Stick V](https://img.shields.io/badge/M5Stack%20Stick%20V-0069A3?style=flat-square)
 
-## 💰 Buy me a coffee
+## 🔒 Public Keys
+
+```
+Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
+```
+
+### PGP Public Key (RSA 4096)
+
+[GitHub](https://github.com/MlgmXyysd.gpg) [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/1800875578B1284C964D198211446879AC55C869)
+
+### SSH Public Key (RSA 4096)
+
+[GitHub](https://github.com/MlgmXyysd.keys)
+
+## 💰 Buy me a Coffee
+
 ✨ If you like my projects, you can buy me a coffee at:
  - [爱发电](https://afdian.net/@MlgmXyysd)
  - [PayPal](https://paypal.me/MlgmXyysd)
+ - [Patreon](https://www.patreon.com/MlgmXyysd)
 
 🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
 
