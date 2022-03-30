@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
-- A cat, Meow~~~
+- A cat, nyaa~~~
 - Chinese / 19 y.o. / Senior High School Student
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
@@ -20,7 +20,7 @@
 
 💖 Let's give it a shot! Go on and catch the dream!
 
-😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio), [@Project-Kaleidoscope](https://github.com/Project-Kaleidoscope) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
+😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio), [@Project-Kaleidoscope](https://github.com/Project-Kaleidoscope), [@WSA-Community](https://github.com/WSA-Community) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
 
 ## 🌱 Programming Languages
 
@@ -61,12 +61,12 @@
 ## 💻 Working Environment
 
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Windows Server 2019 Datacenter](https://img.shields.io/badge/Windows%20Server%202019%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows Server 2022 Datacenter](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Snow%20Cone%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
-![iOS 15.3.1](https://img.shields.io/badge/iOS%2015.2-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-![macOS Monterey 12.2.1](https://img.shields.io/badge/macOS%20Monterey%2012.2.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
+![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS Monterey 12.3](https://img.shields.io/badge/macOS%20Monterey%2012.3-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
