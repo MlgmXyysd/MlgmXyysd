@@ -145,6 +145,7 @@
 ![Huawei 4G Mobile Router 2 Pro](https://img.shields.io/badge/Huawei%204G%20Mobile%20Router%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Mobile WiFi 2 Mini](https://img.shields.io/badge/Huawei%20Mobile%20WiFi%202%20Mini-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![GL.iNet Mudi](https://img.shields.io/badge/GL.iNet%20Mudi-00DBB8?style=flat-square)
+![ZTE MU5001](https://img.shields.io/badge/ZTE%20MU5001-008fd5?style=flat-square)
 
 ![Xiaomi Mi AIoT Router AX3600](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX3600-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi WiFi Router HD](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20HD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
