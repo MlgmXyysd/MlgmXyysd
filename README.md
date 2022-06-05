@@ -17,7 +17,7 @@
 - Amateur Tipster
 - Real / Virtual Games Lover
 - Electronic Devices Collector
-- 😘 @cjybyjk 💕
+- 😘 [@cjybyjk](https://github.com/cjybyjk) 💕
 
 💖 Let's give it a shot! Go on and catch the dream!
 
