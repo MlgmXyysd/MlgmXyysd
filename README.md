@@ -208,10 +208,18 @@ Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=MeowPassword&show_owner=true" />
 </a>
 
+<a href="https://github.com/MeowCat-Studio/GooTool">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=GooTool&show_owner=true" />
+</a>
+
+<a href="https://github.com/WSA-Community/WSAPackagingTool">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WSA-Community&repo=WSAPackagingTool&show_owner=true" />
+</a>
+
 <a href="https://music.meowcat.org/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=MusicBox&show_owner=true" />
 </a>
 
-<a href="https://github.com/MeowCat-Studio/GooTool">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=GooTool&show_owner=true" />
+<a href="https://github.com/Grasscutters/GrassClipper-X">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grasscutters&repo=GrassClipper-X&show_owner=true" />
 </a>
