@@ -22,6 +22,8 @@
 
 😄 Currently I’m a [@MeowCat-Studio](https://github.com/MeowCat-Studio), [@Project-Kaleidoscope](https://github.com/Project-Kaleidoscope), [@WSA-Community](https://github.com/WSA-Community) and [@ElderDrivers](https://github.com/ElderDrivers) core develop team author.
 
+🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
+
 ## 🌱 Programming Languages
 
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
@@ -38,12 +40,21 @@
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
-😠 ~~I hate Kotlin.~~
+😠 **I HATE Kotlin & Python.**
+
+## 💰 Buy me a Coffee
+
+✨ If you like my projects, you can buy me a coffee at:
+ - [爱发电](https://afdian.net/@MlgmXyysd)
+ - [PayPal](https://paypal.me/MlgmXyysd)
+ - [Patreon](https://www.patreon.com/MlgmXyysd)
 
 ## 📫 Get in Touch
 
-(Recommended!) You can find my other contact here -> [![Personal Website](https://img.shields.io/badge/-MlgmXyysd's%20Cat%20Nest-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://www.neko.ink/)
-
+(Recommended!) You can find my other contacts in my Blog -> [![Personal Website](https://img.shields.io/badge/-MlgmXyysd's%20Cat%20Nest-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://www.neko.ink/)
+<details>
+<summary>Spoiler</summary>
+ 
 [![Twitter](https://img.shields.io/twitter/follow/realMlgmXyysd?color=1ca0f1&label=%40realMlgmXyysd&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/realMlgmXyysd)
 [![FaceBook](https://img.shields.io/badge/-@realMlgmXyysd-1877f2?style=flat-square&logo=facebook&logoColor=white&labelColor=1877f2)](https://www.facebook.com/realMlgmXyysd)
 [![Sina Weibo](https://img.shields.io/badge/-@MlgmXyysd-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/MlgmXyysd)
@@ -54,6 +65,7 @@
 [![Steam](https://img.shields.io/badge/-mlgmxyysd-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/mlgmxyysd)
 [![Telegram Channel](https://img.shields.io/badge/-t.me/MlgmXyysd_bibilailai-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/MlgmXyysd_bibilailai)
 [![E-Mail](https://img.shields.io/badge/-mlgmxyysd@meowcat.org-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:mlgmxyysd_at_meowcat.org)
+</details>
 
 ![Genshin Impact](https://genshin-card.getloli.com/1/194801330.png)
 ![Genshin Impact](https://genshin-card.getloli.com/3/230476872.png)
@@ -66,12 +78,12 @@
 ![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Snow%20Cone%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 ![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-![macOS Monterey 12.3](https://img.shields.io/badge/macOS%20Monterey%2012.3-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
 ### Phone / Pad
 
+![OnePlus Ace Race](https://img.shields.io/badge/OnePlus%20Ace%20Race-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -95,6 +107,7 @@
 ![OPPO Reno 7 Pro](https://img.shields.io/badge/OPPO%20Reno%207%20Pro-0f743d?style=flat-square)
 ![OPPO R831T](https://img.shields.io/badge/OPPO%20R831T-0f743d?style=flat-square)
 ![Realme Q3](https://img.shields.io/badge/Realme%20Q3-ffca14?style=flat-square)
+![Duoqin Qin F22 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F22%20Pro-03e2c9?style=flat-square)
 ![Duoqin Qin F21 Pro+](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro+-03e2c9?style=flat-square)
 ![Duoqin Qin F21 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro-03e2c9?style=flat-square)
 ![Duoqin Qin K201](https://img.shields.io/badge/Duoqin%20Qin%20K201-03e2c9?style=flat-square)
@@ -183,23 +196,22 @@ Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
 
 [GitHub](https://github.com/MlgmXyysd.keys)
 
-## 💰 Buy me a Coffee
-
-✨ If you like my projects, you can buy me a coffee at:
- - [爱发电](https://afdian.net/@MlgmXyysd)
- - [PayPal](https://paypal.me/MlgmXyysd)
- - [Patreon](https://www.patreon.com/MlgmXyysd)
-
-🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
-
 ----
 
-## 👯 Come and play with my some fun games:
+## 👯 Come and play with my some fun projects:
 
-<a href="http://rabbit.meowcat.org/">
+<a href="https://rabbit.meowcat.org/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=Rabbit-Go-Countdown&show_owner=true" />
 </a>
 
-<a href="http://music.meowcat.org/">
+<a href="https://password.meowcat.org/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=MeowPassword&show_owner=true" />
+</a>
+
+<a href="https://music.meowcat.org/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=MusicBox&show_owner=true" />
+</a>
+
+<a href="https://github.com/MeowCat-Studio/GooTool">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=GooTool&show_owner=true" />
 </a>
