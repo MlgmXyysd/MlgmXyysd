@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
-- A cat, nyaa~~~
+- A cat, nyaa~~~ 🐱
 - Chinese / 19 y.o. / Senior High School Student
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
@@ -17,6 +17,7 @@
 - Amateur Tipster
 - Real / Virtual Games Lover
 - Electronic Devices Collector
+- 😘 @cjybyjk 💕
 
 💖 Let's give it a shot! Go on and catch the dream!
 
@@ -104,7 +105,6 @@
 ![OnePlus 2](https://img.shields.io/badge/OnePlus%202-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Palm Phone](https://img.shields.io/badge/Palm%20Phone-000000?style=flat-square)
-![OPPO Reno 7 Pro](https://img.shields.io/badge/OPPO%20Reno%207%20Pro-0f743d?style=flat-square)
 ![OPPO R831T](https://img.shields.io/badge/OPPO%20R831T-0f743d?style=flat-square)
 ![Realme Q3](https://img.shields.io/badge/Realme%20Q3-ffca14?style=flat-square)
 ![Duoqin Qin F22 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F22%20Pro-03e2c9?style=flat-square)
