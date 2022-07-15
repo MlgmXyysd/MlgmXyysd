@@ -84,7 +84,7 @@
 
 ### Phone / Pad
 
-![OnePlus Ace Race](https://img.shields.io/badge/OnePlus%20Ace%20Race-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 10 Pro](https://img.shields.io/badge/OnePlus%2010%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -167,6 +167,7 @@
 
 ### Computer / Demoboard
 
+![Lenovo Legion Y9000P IAH7H i7 3070Ti](https://img.shields.io/badge/Lenovo%20Legion%20Y9000P%20IAH7H%20i7%203070Ti-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 ![Intel NUC NUC8i7HVK](https://img.shields.io/badge/Intel%20NUC%20NUC8i7HVK-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
@@ -174,7 +175,7 @@
 ![Funhouse F10 MPro](https://img.shields.io/badge/Funhouse%20F10%20MPro-5e5e5e?style=flat-square)
 
 ![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Raspberry Pi 4 Model B](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi 4 Model B 8G](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Zero WH](https://img.shields.io/badge/Raspberry%20Pi%20Zero%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
