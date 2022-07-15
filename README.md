@@ -73,10 +73,10 @@
 
 ## 💻 Working Environment
 
-![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro Workstation](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows Server 2022 Datacenter](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Snow%20Cone%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Android Tiramisu 13](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 ![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
@@ -105,13 +105,16 @@
 ![OnePlus 2](https://img.shields.io/badge/OnePlus%202-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Palm Phone](https://img.shields.io/badge/Palm%20Phone-000000?style=flat-square)
+![LG Wing](https://img.shields.io/badge/LG%20Wing-a50034?style=flat-square&logo=lg&logoColor=ffffff)
+![LG G6](https://img.shields.io/badge/LG%20G6-a50034?style=flat-square&logo=lg&logoColor=ffffff)
 ![OPPO R831T](https://img.shields.io/badge/OPPO%20R831T-0f743d?style=flat-square)
 ![Realme Q3](https://img.shields.io/badge/Realme%20Q3-ffca14?style=flat-square)
-![Duoqin Qin F22 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F22%20Pro-03e2c9?style=flat-square)
-![Duoqin Qin F21 Pro+](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro+-03e2c9?style=flat-square)
-![Duoqin Qin F21 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro-03e2c9?style=flat-square)
-![Duoqin Qin K201](https://img.shields.io/badge/Duoqin%20Qin%20K201-03e2c9?style=flat-square)
+![Duoqin F22 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F22%20Pro-03e2c9?style=flat-square)
+![Duoqin F21 Pro+](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro+-03e2c9?style=flat-square)
+![Duoqin F21 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro-03e2c9?style=flat-square)
+![Duoqin K201](https://img.shields.io/badge/Duoqin%20Qin%20K201-03e2c9?style=flat-square)
 ![Duoqin Qin 2 Pro](https://img.shields.io/badge/Duoqin%20Qin%202%20Pro-03e2c9?style=flat-square)
+![Duoqin Qin 2](https://img.shields.io/badge/Duoqin%20Qin%202%20Pro-03e2c9?style=flat-square)
 ![Xiaomi Mi 6X Miku](https://img.shields.io/badge/Xiaomi%20Mi%206X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Max 2](https://img.shields.io/badge/Xiaomi%20Mi%20Max%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 4X Miku](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%204X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -173,6 +176,7 @@
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Microsoft Surface Pro 4](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Funhouse F10 MPro](https://img.shields.io/badge/Funhouse%20F10%20MPro-5e5e5e?style=flat-square)
+![NINGMEI CR160](https://img.shields.io/badge/NINGMEI%20CR160-ca3c42?style=flat-square)
 
 ![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Raspberry Pi 4 Model B 8G](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
