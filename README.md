@@ -10,7 +10,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 - A cat, nyaa~~~ 🐱
-- Chinese / 19 y.o. / Senior High School Student
+- Chinese / 19 y.o. / Graduated High School Student
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
 - XDA Recognized Developer
@@ -114,7 +114,7 @@
 ![Duoqin F21 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F21%20Pro-03e2c9?style=flat-square)
 ![Duoqin K201](https://img.shields.io/badge/Duoqin%20Qin%20K201-03e2c9?style=flat-square)
 ![Duoqin Qin 2 Pro](https://img.shields.io/badge/Duoqin%20Qin%202%20Pro-03e2c9?style=flat-square)
-![Duoqin Qin 2](https://img.shields.io/badge/Duoqin%20Qin%202%20Pro-03e2c9?style=flat-square)
+![Duoqin Qin 2](https://img.shields.io/badge/Duoqin%20Qin%202-03e2c9?style=flat-square)
 ![Xiaomi Mi 6X Miku](https://img.shields.io/badge/Xiaomi%20Mi%206X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Max 2](https://img.shields.io/badge/Xiaomi%20Mi%20Max%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 4X Miku](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%204X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
