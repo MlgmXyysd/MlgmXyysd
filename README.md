@@ -84,7 +84,7 @@
 
 ### Phone / Pad
 
-![OnePlus 10 Pro](https://img.shields.io/badge/OnePlus%2010%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 10T / Ace Pro](https://img.shields.io/badge/OnePlus%2010T%20%2f%20Ace%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -107,6 +107,7 @@
 ![Palm Phone](https://img.shields.io/badge/Palm%20Phone-000000?style=flat-square)
 ![LG Wing](https://img.shields.io/badge/LG%20Wing-a50034?style=flat-square&logo=lg&logoColor=ffffff)
 ![LG G6](https://img.shields.io/badge/LG%20G6-a50034?style=flat-square&logo=lg&logoColor=ffffff)
+![OPPO Find X5 Pro Dimensity](https://img.shields.io/badge/OPPO%20Find%20X5%20Pro%20Dimensity-0f743d?style=flat-square)
 ![OPPO R831T](https://img.shields.io/badge/OPPO%20R831T-0f743d?style=flat-square)
 ![Realme Q3](https://img.shields.io/badge/Realme%20Q3-ffca14?style=flat-square)
 ![Duoqin F22 Pro](https://img.shields.io/badge/Duoqin%20Qin%20F22%20Pro-03e2c9?style=flat-square)
@@ -141,8 +142,9 @@
 ![Huawei Watch 2 Pro](https://img.shields.io/badge/Huawei%20Watch%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Watch 2 Porsche Design](https://img.shields.io/badge/Huawei%20Watch%202%20Porsche%20Design-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Xiaomi Mi Watch Premium](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%20Premium-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Mobvoi TicWatch E3](https://img.shields.io/badge/Mobvoi%20TicWatch%20E3-3c8cfd?style=flat-square)
+![OPPO Watch 3 Pro](https://img.shields.io/badge/OPPO%20Watch%203%20Pro-0f743d?style=flat-square)
 ![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
-![OPPO Watch 46mm](https://img.shields.io/badge/OPPO%20Watch%2046mm-0f743d?style=flat-square)
 
 ![Google Glass Enterprise Edition 1](https://img.shields.io/badge/Google%20Glass%20Enterprise%20Edition%201-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Glass Explorer Edition XE-C](https://img.shields.io/badge/Google%20Glass%20Explorer%20Edition%20XE_C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
