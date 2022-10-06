@@ -10,7 +10,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 - A cat, nyaa~~~ 🐱
-- Chinese / 19 y.o. / Graduated High School Student
+- Chinese / 20 y.o. / Graduated High School Student
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
 - XDA Recognized Developer
@@ -73,8 +73,8 @@
 
 ## 💻 Working Environment
 
-![Windows 11 Pro Workstation](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Windows Server 2022 Datacenter](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro Workstation 22H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows Server 2022 Datacenter 21H2](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter%2021H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Tiramisu 13](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
@@ -166,6 +166,7 @@
 ![ZTE MU5001](https://img.shields.io/badge/ZTE%20MU5001-008fd5?style=flat-square)
 
 ![Xiaomi Mi AIoT Router AX3600](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX3600-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi AIoT Router AX1800](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX1800-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi WiFi Router HD](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20HD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi WiFi Router Pro](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![GL.iNet Flint](https://img.shields.io/badge/GL.iNet%20Flint-00DBB8?style=flat-square)
