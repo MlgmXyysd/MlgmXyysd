@@ -84,7 +84,7 @@
 
 ### Phone / Pad
 
-![OnePlus 10T / Ace Pro](https://img.shields.io/badge/OnePlus%2010T%20%2f%20Ace%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 10T / Ace Pro Genshin Impact](https://img.shields.io/badge/OnePlus%2010T%20%2f%20Ace%20Pro%20Genshin%20Impact-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9RT](https://img.shields.io/badge/OnePlus%209RT-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9 Pro](https://img.shields.io/badge/OnePlus%209%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 9](https://img.shields.io/badge/OnePlus%209-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -177,9 +177,9 @@
 ![Intel NUC NUC8i7HVK](https://img.shields.io/badge/Intel%20NUC%20NUC8i7HVK-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
-![Microsoft Surface Pro 4](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
+![Microsoft Surface Pro 4 i7 16G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204%20i7%2016G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Funhouse F10 MPro](https://img.shields.io/badge/Funhouse%20F10%20MPro-5e5e5e?style=flat-square)
-![NINGMEI CR160](https://img.shields.io/badge/NINGMEI%20CR160-ca3c42?style=flat-square)
+![NINGMEI CR160R](https://img.shields.io/badge/NINGMEI%20CR160R-ca3c42?style=flat-square)
 
 ![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Raspberry Pi 4 Model B 8G](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
