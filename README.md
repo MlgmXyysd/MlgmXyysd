@@ -13,7 +13,7 @@
 - Chinese / 20 y.o. / Graduated High School Student
 - zh-CN / en-US / ~~ja-JP~~
 - Programmer / Developer / Coder / Engineer
-- XDA Recognized Developer
+- [XDA Recognized Developer](https://forum.xda-developers.com/member.php?u=8430637)
 - Amateur Tipster
 - Real / Virtual Games Lover
 - Electronic Devices Collector
