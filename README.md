@@ -10,14 +10,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 - A cat, nyaa~~~ 🐱
-- Chinese / 20 y.o. / Graduated High School Student
-- zh-CN / en-US / ~~ja-JP~~
+- Chinese / 20 y.o. / College Girl
+- zh-CN / en-US / ~~ru-RU / ja-JP~~ (Learning!)
 - Programmer / Developer / Coder / Engineer
 - [XDA Recognized Developer](https://forum.xda-developers.com/member.php?u=8430637)
 - Amateur Tipster
 - Real / Virtual Games Lover
 - Electronic Devices Collector
 - 😘 [@cjybyjk](https://github.com/cjybyjk) 💕
+- Want to become more lovely and gently.
 
 💖 Let's give it a shot! Go on and catch the dream!
 
@@ -180,6 +181,7 @@
 ![Microsoft Surface Pro 4 i7 16G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204%20i7%2016G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Funhouse F10 MPro](https://img.shields.io/badge/Funhouse%20F10%20MPro-5e5e5e?style=flat-square)
 ![NINGMEI CR160R](https://img.shields.io/badge/NINGMEI%20CR160R-ca3c42?style=flat-square)
+![MoreFine M8S](https://img.shields.io/badge/MoreFine%20M8S-ffffff?style=flat-square)
 
 ![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Raspberry Pi 4 Model B 8G](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
