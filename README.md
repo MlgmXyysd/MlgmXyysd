@@ -76,10 +76,10 @@
 
 ![Windows 11 Pro Workstation 22H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows Server 2022 Datacenter 21H2](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter%2021H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Ubuntu 22.04.1](https://img.shields.io/badge/Ubuntu%2022.04.1-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Tiramisu 13](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
-![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![iOS 15.7.3](https://img.shields.io/badge/iOS%2015.7.3-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
@@ -137,6 +137,7 @@
 ![ZTE U880](https://img.shields.io/badge/ZTE%20U880-008fd5?style=flat-square)
 ![ZTE V880](https://img.shields.io/badge/ZTE%20V880-008fd5?style=flat-square)
 
+![Apple iPhone 13 mini](https://img.shields.io/badge/Apple%20iPhone%2013%20mini-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 6s](https://img.shields.io/badge/Apple%20iPhone%206s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 5s](https://img.shields.io/badge/Apple%20iPhone%205s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
