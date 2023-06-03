@@ -101,6 +101,7 @@
 ![LG Wing](https://img.shields.io/badge/LG%20Wing-a50034?style=flat-square&logo=lg&logoColor=ffffff)
 ![LG G6](https://img.shields.io/badge/LG%20G6-a50034?style=flat-square&logo=lg&logoColor=ffffff)
 ![Meizu 15](https://img.shields.io/badge/Meizu%2015-048dff?style=flat-square)
+![OnePlus Nord 3 / Ace 2V](https://img.shields.io/badge/OnePlus%20Nord%203%20%2f%20Ace%202V-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 11R / Ace 2 Genshin Impact](https://img.shields.io/badge/OnePlus%2011R%20%2f%20Ace%202%20Genshin%20Impact-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 11 Marble Odyssey](https://img.shields.io/badge/OnePlus%2011%20Marble%20Odyssey-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 10T / Ace Pro Genshin Impact](https://img.shields.io/badge/OnePlus%2010T%20%2f%20Ace%20Pro%20Genshin%20Impact-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
