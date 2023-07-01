@@ -177,13 +177,13 @@
 ### Router / WiFi
 
 ![GL.iNet Mudi GL-E750](https://img.shields.io/badge/GL.iNet%20Mudi%20GL_E750-00DBB8?style=flat-square)
-![Huawei 4G Mobile Router 2 Mini](https://img.shields.io/badge/Huawei%20Mobile%20Router%202%20Mini-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei 4G Mobile Router 2 Pro](https://img.shields.io/badge/Huawei%204G%20Mobile%20Router%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei 4G Mobile Router 2 Mini](https://img.shields.io/badge/Huawei%204G%20Mobile%20Router%202%20Mini-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Lenovo Legion Mobile Router](https://img.shields.io/badge/Lenovo%20Legion%20Mobile%20Router-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 ![Qualcomm Snapdragon 210 Platform Mobile Router](https://img.shields.io/badge/Qualcomm%20Snapdragon%20210%20Platform%20Mobile%20Router-3253dc?style=flat-square&logo=qualcomm&logoColor=ffffff)
-![ZTE 4G Mobile Router MF79N](https://img.shields.io/badge/ZTE%204G%20Mobile%20Router%20MF79N-008fd5?style=flat-square)
-![ZTE 5G Mobile Router WiFi 6 MU5001](https://img.shields.io/badge/ZTE%205G%20Mobile%20Router%20WiFi%206%20MU5001-008fd5?style=flat-square)
 ![ZTE 5G Mobile Router U50 Pro](https://img.shields.io/badge/ZTE%205G%20Mobile%20Router%20U50%20Pro-008fd5?style=flat-square)
+![ZTE 5G Mobile Router WiFi 6 MU5001](https://img.shields.io/badge/ZTE%205G%20Mobile%20Router%20WiFi%206%20MU5001-008fd5?style=flat-square)
+![ZTE 4G Mobile Router MF79N](https://img.shields.io/badge/ZTE%204G%20Mobile%20Router%20MF79N-008fd5?style=flat-square)
 
 ![GL.iNet Flint GL-AX1800](https://img.shields.io/badge/GL.iNet%20Flint%20GL_AX1800-00DBB8?style=flat-square)
 ![Xiaomi Mi AIoT Router AX3600](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX3600-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
