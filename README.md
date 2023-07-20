@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Meow~&count_private=true">
 
-# MlgmXyysd 🔭
+# NekoYuzu (MlgmXyysd) 🔭
 
 ### Hi there 👋 This... It's me? Okay.
 
@@ -238,12 +238,12 @@ Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=MeowPassword&show_owner=true" />
 </a>
 
-<a href="https://github.com/MeowCat-Studio/GooTool">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowCat-Studio&repo=GooTool&show_owner=true" />
+<a href="https://github.com/MlgmXyysd/GooTool">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=GooTool&show_owner=true" />
 </a>
 
-<a href="https://github.com/WSA-Community/WSAPackagingTool">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WSA-Community&repo=WSAPackagingTool&show_owner=true" />
+<a href="https://github.com/MlgmXyysd/WSAPackagingTool">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=WSAPackagingTool&show_owner=true" />
 </a>
 
 <a href="https://music.meowcat.org/">
