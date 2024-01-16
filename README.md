@@ -245,8 +245,8 @@ Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=GooTool&show_owner=true" />
 </a>
 
-<a href="https://github.com/MlgmXyysd/WSAPackagingTool">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=WSAPackagingTool&show_owner=true" />
+<a href="https://github.com/MlgmXyysd/Magic-Splash-Wand">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=Magic-Splash-Wand&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/AngryBirdsLevelEditor">
@@ -259,4 +259,24 @@ Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
 
 <a href="https://github.com/Grasscutters/GrassClipper-X">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grasscutters&repo=GrassClipper-X&show_owner=true" />
+</a>
+
+<a href="https://github.com/MlgmXyysd/F21ProInjector">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=F21ProInjector&show_owner=true" />
+</a>
+
+<a href="https://github.com/MlgmXyysd/DDLC-Plus-Asset-Decrypter">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=DDLC-Plus-Asset-Decrypter&show_owner=true" />
+</a>
+
+<a href="https://github.com/MlgmXyysd/php-adb">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=php-adb&show_owner=true" />
+</a>
+
+<a href="https://github.com/MlgmXyysd/Bad-Piggies-Progress-Crypto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=Bad-Piggies-Progress-Crypto&show_owner=true" />
+</a>
+
+<a href="https://github.com/MlgmXyysd/KernelSU_Debug">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=KernelSU_Debug&show_owner=true" />
 </a>
