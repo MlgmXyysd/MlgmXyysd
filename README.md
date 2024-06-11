@@ -277,6 +277,10 @@ Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=Bad-Piggies-Progress-Crypto&show_owner=true" />
 </a>
 
+<a href="https://github.com/MlgmXyysd/libil2cpp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=libil2cpp&show_owner=true" />
+</a>
+
 <a href="https://github.com/MlgmXyysd/KernelSU_Debug">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MlgmXyysd&repo=KernelSU_Debug&show_owner=true" />
 </a>
