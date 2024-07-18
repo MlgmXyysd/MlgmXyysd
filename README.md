@@ -72,12 +72,12 @@
 
 ## 💻 Working Environment
 
-![Windows 11 Pro Workstation 22H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Windows Server 2022 Datacenter 21H2](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter%2021H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro Workstation 23H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows Server 2022 Datacenter 23H2](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 22.04.1](https://img.shields.io/badge/Ubuntu%2022.04.1-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android 14 Upside Down Cake](https://img.shields.io/badge/Android%2014%20Upside%20Down%20Cake-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
-![iOS 17.2.1](https://img.shields.io/badge/iOS%2017.2.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![Wear OS 3.5](https://img.shields.io/badge/Wear%20OS%203.5-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
+![iOS 17.5.1](https://img.shields.io/badge/iOS%2017.5.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
@@ -128,14 +128,13 @@
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Palm Phone](https://img.shields.io/badge/Palm%20Phone-000000?style=flat-square)
 ![Palm Phone E](https://img.shields.io/badge/Palm%20Phone%20E-000000?style=flat-square)
-![OPPO Reno 11 Pro](https://img.shields.io/badge/OPPO%20Reno%2011%20Pro-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO R831T](https://img.shields.io/badge/OPPO%20R831T-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![Rakuten Hand](https://img.shields.io/badge/Rakuten%20Hand-bf0000?style=flat-square&logo=rakuten&logoColor=ffffff)
 ![Rakuten Mini](https://img.shields.io/badge/Rakuten%20Mini-bf0000?style=flat-square&logo=rakuten&logoColor=ffffff)
 ![Realme Q3](https://img.shields.io/badge/Realme%20Q3-ffca14?style=flat-square)
 ![Samsung Galaxy Trend Duos II](https://img.shields.io/badge/Samsung%20Galaxy%20Trend%20Duos%20II-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Samsung Galaxy S](https://img.shields.io/badge/Samsung%20Galaxy%20S-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
-![Unihertz Jelly Star](https://img.shields.io/badge/Unihertz%20Jelly%20Star-241f21?style=flat-square)
+![Unihertz Jelly Star / 2S](https://img.shields.io/badge/Unihertz%20Jelly%20Star%20%2f%202S-241f21?style=flat-square)
 ![Unihertz TickTock](https://img.shields.io/badge/Unihertz%20TickTock-241f21?style=flat-square)
 ![Unihertz Jelly 2](https://img.shields.io/badge/Unihertz%20Jelly%202-241f21?style=flat-square)
 ![Vivo X7 Plus](https://img.shields.io/badge/Vivo%20X7%20Plus-415fff?style=flat-square)
@@ -151,6 +150,7 @@
 ![Google Pixel C](https://img.shields.io/badge/Google%20Pixel%20C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Lenovo Legion Tab Y700 2023](https://img.shields.io/badge/Lenovo%20Legion%20Tab%20Y700%202023-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 ![Lenovo Xiaoxin Pad Pro 12.7 Snapdragon](https://img.shields.io/badge/Lenovo%20Xiaoxin%20Pad%20Pro%2012.7%20Snapdragon-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
+![OnePlus Pad 2 / Pad Pro](https://img.shields.io/badge/OnePlus%20Pad%202%20%2f%20Pad%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Onyx BOOX Note X](https://img.shields.io/badge/Onyx%20BOOX%20Note%20X-BE735B?style=flat-square)
 ![Xiaomi Mi Pad 4 Plus National Day](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%204%20Plus%20National%20Day-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
@@ -158,6 +158,7 @@
 
 ### Watch / Wearable / Band / Others
 
+![Huawei Watch 2 Classic](https://img.shields.io/badge/Huawei%20Watch%202%20Classic-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Watch 2 Pro](https://img.shields.io/badge/Huawei%20Watch%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Watch 2 Porsche Design](https://img.shields.io/badge/Huawei%20Watch%202%20Porsche%20Design-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Mlais Watch](https://img.shields.io/badge/Mlais%20Watch-000000?style=flat-square)
