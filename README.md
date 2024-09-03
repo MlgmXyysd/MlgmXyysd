@@ -163,6 +163,7 @@
 ![Huawei Watch 2 Porsche Design](https://img.shields.io/badge/Huawei%20Watch%202%20Porsche%20Design-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Mlais Watch](https://img.shields.io/badge/Mlais%20Watch-000000?style=flat-square)
 ![Mobvoi TicWatch E3](https://img.shields.io/badge/Mobvoi%20TicWatch%20E3-3c8cfd?style=flat-square)
+![Mobvoi TicWatch Pro 3 Ultra / Pro X](https://img.shields.io/badge/Mobvoi%20TicWatch%203%20Ultra%20%2f%20Pro%20X-3c8cfd?style=flat-square)
 ![OPPO Watch 4 Pro](https://img.shields.io/badge/OPPO%20Watch%204%20Pro-0f743d?style=flat-square)
 ![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
 ![Xiaomi Mi Watch Premium](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%20Premium-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
