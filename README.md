@@ -10,7 +10,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 - A cat, nyaa~~~ 🐱
-- Chinese / 21 y.o. / College Girl
+- Chinese / 22 y.o. / College Girl
 - zh-CN / en-US / ~~ru-RU / ja-JP~~ (Learning!)
 - Programmer / Developer / Coder / Engineer
 - [XDA Recognized Developer](https://forum.xda-developers.com/member.php?u=8430637)
@@ -90,6 +90,7 @@
 ![Duoqin F22](https://img.shields.io/badge/Duoqin%20F22-03e2c9?style=flat-square)
 ![Duoqin F21 Pro+](https://img.shields.io/badge/Duoqin%20F21%20Pro+-03e2c9?style=flat-square)
 ![Duoqin F21 Pro](https://img.shields.io/badge/Duoqin%20F21%20Pro-03e2c9?style=flat-square)
+![Duoqin F21](https://img.shields.io/badge/Duoqin%20F21-03e2c9?style=flat-square)
 ![Duoqin K201](https://img.shields.io/badge/Duoqin%20K201-03e2c9?style=flat-square)
 ![Duoqin Qin 2 Pro](https://img.shields.io/badge/Duoqin%20Qin%202%20Pro-03e2c9?style=flat-square)
 ![Duoqin Qin 2](https://img.shields.io/badge/Duoqin%20Qin%202-03e2c9?style=flat-square)
@@ -102,6 +103,7 @@
 ![LG Wing](https://img.shields.io/badge/LG%20Wing-a50034?style=flat-square&logo=lg&logoColor=ffffff)
 ![LG G6](https://img.shields.io/badge/LG%20G6-a50034?style=flat-square&logo=lg&logoColor=ffffff)
 ![Meizu 15](https://img.shields.io/badge/Meizu%2015-048dff?style=flat-square)
+![OnePlus 13](https://img.shields.io/badge/OnePlus%2013-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 12](https://img.shields.io/badge/OnePlus%2012-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Nord 3 / Ace 2V](https://img.shields.io/badge/OnePlus%20Nord%203%20%2f%20Ace%202V-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 11R / Ace 2 Genshin Impact](https://img.shields.io/badge/OnePlus%2011R%20%2f%20Ace%202%20Genshin%20Impact-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -128,6 +130,7 @@
 ![OnePlus One JBL](https://img.shields.io/badge/OnePlus%20One%20JBL-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Palm Phone](https://img.shields.io/badge/Palm%20Phone-000000?style=flat-square)
 ![Palm Phone E](https://img.shields.io/badge/Palm%20Phone%20E-000000?style=flat-square)
+![OPPO Find X8 Pro](https://img.shields.io/badge/OPPO%20Find%20X8%20Pro-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO R831T](https://img.shields.io/badge/OPPO%20R831T-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![Rakuten Hand](https://img.shields.io/badge/Rakuten%20Hand-bf0000?style=flat-square&logo=rakuten&logoColor=ffffff)
 ![Rakuten Mini](https://img.shields.io/badge/Rakuten%20Mini-bf0000?style=flat-square&logo=rakuten&logoColor=ffffff)
@@ -138,6 +141,7 @@
 ![Unihertz TickTock](https://img.shields.io/badge/Unihertz%20TickTock-241f21?style=flat-square)
 ![Unihertz Jelly 2](https://img.shields.io/badge/Unihertz%20Jelly%202-241f21?style=flat-square)
 ![Vivo X7 Plus](https://img.shields.io/badge/Vivo%20X7%20Plus-415fff?style=flat-square)
+![Xiaomi Mi 6](https://img.shields.io/badge/Xiaomi%20Mi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 6X Miku](https://img.shields.io/badge/Xiaomi%20Mi%206X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Max 2](https://img.shields.io/badge/Xiaomi%20Mi%20Max%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 4X Miku](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%204X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -148,7 +152,6 @@
 ![Apple iPhone 5s](https://img.shields.io/badge/Apple%20iPhone%205s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
 ![Google Pixel C](https://img.shields.io/badge/Google%20Pixel%20C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
-![Lenovo Legion Tab Y700 2023](https://img.shields.io/badge/Lenovo%20Legion%20Tab%20Y700%202023-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 ![Lenovo Xiaoxin Pad Pro 12.7 Snapdragon](https://img.shields.io/badge/Lenovo%20Xiaoxin%20Pad%20Pro%2012.7%20Snapdragon-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 ![OnePlus Pad 2 / Pad Pro](https://img.shields.io/badge/OnePlus%20Pad%202%20%2f%20Pad%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Onyx BOOX Note X](https://img.shields.io/badge/Onyx%20BOOX%20Note%20X-BE735B?style=flat-square)
@@ -208,6 +211,7 @@
 ![MoreFine M8S](https://img.shields.io/badge/MoreFine%20M8S-ffffff?style=flat-square)
 
 ![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Raspberry Pi 5 8G](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 4 Model B 8G](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
