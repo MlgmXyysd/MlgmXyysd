@@ -47,6 +47,7 @@
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, you can buy me a coffee at:
+ - [GitHub Sponsors](https://github.com/sponsors/MlgmXyysd/)
  - [爱发电](https://afdian.net/@MlgmXyysd)
  - [PayPal](https://paypal.me/MlgmXyysd)
  - [Patreon](https://www.patreon.com/MlgmXyysd)
@@ -72,7 +73,7 @@
 
 ## 💻 Working Environment
 
-![Windows 11 Pro Workstation 23H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro Workstation 24H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2024H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows Server 2022 Datacenter 23H2](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 22.04.1](https://img.shields.io/badge/Ubuntu%2022.04.1-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android 15 Vanilla Ice Cream](https://img.shields.io/badge/Android%2015%20Vanilla%20Ice%20Cream-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
@@ -167,7 +168,7 @@
 ![Mlais Watch](https://img.shields.io/badge/Mlais%20Watch-000000?style=flat-square)
 ![Mobvoi TicWatch Pro 3 Ultra / Pro X](https://img.shields.io/badge/Mobvoi%20TicWatch%203%20Ultra%20%2f%20Pro%20X-3c8cfd?style=flat-square)
 ![Mobvoi TicWatch E3](https://img.shields.io/badge/Mobvoi%20TicWatch%20E3-3c8cfd?style=flat-square)
-![OnePlus Watch 2 / OPPO Watch X](https://img.shields.io/badge/OnePlus%20Watch%202%202%20%2f%20OPPO%20Watch%20X-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus Watch 2 / OPPO Watch X](https://img.shields.io/badge/OnePlus%20Watch%202%20%2f%20OPPO%20Watch%20X-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OPPO Watch 4 Pro](https://img.shields.io/badge/OPPO%20Watch%204%20Pro-0f743d?style=flat-square)
 ![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square)
 ![Xiaomi Mi Watch Premium](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%20Premium-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
