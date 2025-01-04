@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Meow~&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&show=prs_merged_percentage&include_all_commits=true&custom_title=Meow~&count_private=true">
 
 # NekoYuzu (MlgmXyysd) 🔭
 
@@ -10,7 +10,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 - A cat, nyaa~~~ 🐱
-- Chinese / 22 y.o. / College Girl
+- Chinese / 22 y.o. / [DSD Cis-gender](https://endo-ern.eu/rare-sex-development-maturation-conditions/rare-disease-patient-information/46xy-dsd/) Girl
 - zh-CN / en-US / ~~ru-RU / ja-JP~~ (Learning!)
 - Programmer / Developer / Coder / Engineer
 - [XDA Recognized Developer](https://forum.xda-developers.com/member.php?u=8430637)
@@ -55,6 +55,7 @@
 ## 📫 Get in Touch
 
 (Recommended!) You can find my other contacts in my Blog -> [![Personal Website](https://img.shields.io/badge/-MlgmXyysd's%20Cat%20Nest-ff6550?style=flat-square&logo=bloglovin&logoColor=white&labelColor=ff6550)](https://www.neko.ink/)
+
 [![Telegram Channel](https://img.shields.io/badge/-Telegram%20News%20Channel-3db6f1?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MlgmXyysd_bibilailai)
 
 <details>
@@ -77,7 +78,7 @@
 ![Windows Server 2022 Datacenter 23H2](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 22.04.1](https://img.shields.io/badge/Ubuntu%2022.04.1-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android 15 Vanilla Ice Cream](https://img.shields.io/badge/Android%2015%20Vanilla%20Ice%20Cream-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![Wear OS 3.5](https://img.shields.io/badge/Wear%20OS%203.5-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
+![Wear OS 4.0](https://img.shields.io/badge/Wear%20OS%204.0-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 ![iOS 18.2](https://img.shields.io/badge/iOS%2018.2-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
 ## 📱 Devices in Use
@@ -160,7 +161,7 @@
 
 ![Nokia Asha 3080](https://img.shields.io/badge/Nokia%20Asha%203080-124191?style=flat-square&logo=nokia&logoColor=ffffff)
 
-### Watch / Wearable / Band / Others
+### Wearable / IoT / Others
 
 ![Huawei Watch 2 Porsche Design](https://img.shields.io/badge/Huawei%20Watch%202%20Porsche%20Design-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Watch 2 Pro](https://img.shields.io/badge/Huawei%20Watch%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
@@ -179,10 +180,9 @@
 ![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square)
 ![Hisense ULED TV VIDAA-93](https://img.shields.io/badge/Hisense%20ULED%20TV%20VIDAA_93-00A19C?style=flat-square)
 
-![OnePlus Watch Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OnePlus Watch Cobalt](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus Watch Cobalt / Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt%20%2f%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OPPO Band](https://img.shields.io/badge/OPPO%20Band-0f743d?style=flat-square)
-![Xiaomi Mi Band 4 NFC](https://img.shields.io/badge/Xiaomi%20Mi%20Band%204%20NFC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi Band 4 NFC / Avengers](https://img.shields.io/badge/Xiaomi%20Mi%20Band%204%20NFC%20%2f%20Avengers-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ### Router / WiFi
 
