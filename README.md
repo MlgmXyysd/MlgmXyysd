@@ -48,7 +48,7 @@
 
 ✨ If you like my projects, you can buy me a coffee at:
  - [GitHub Sponsors](https://github.com/sponsors/MlgmXyysd/)
- - [爱发电](https://afdian.net/@MlgmXyysd)
+ - [Afdian (爱发电)](https://afdian.com/@MlgmXyysd)
  - [PayPal](https://paypal.me/MlgmXyysd)
  - [Patreon](https://www.patreon.com/MlgmXyysd)
 
