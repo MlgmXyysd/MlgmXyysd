@@ -47,10 +47,10 @@
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, you can buy me a coffee at:
- - [GitHub Sponsors](https://github.com/sponsors/MlgmXyysd/)
- - [Afdian (爱发电)](https://afdian.com/@MlgmXyysd)
- - [PayPal](https://paypal.me/MlgmXyysd)
- - [Patreon](https://www.patreon.com/MlgmXyysd)
+ - [![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/sponsors/MlgmXyysd/)
+ - [![Afdian (爱发电)](https://img.shields.io/badge/-Afdian%20%28%E7%88%B1%E5%8F%91%E7%94%B5%29-946ce6?style=flat-square)](https://afdian.com/@MlgmXyysd)
+ - [![PayPal](https://img.shields.io/badge/-PayPal-002991?style=flat-square&logo=paypal&logoColor=fff)](https://paypal.me/MlgmXyysd)
+<!-- - [![Patreon](https://img.shields.io/badge/-Patreon-000000?style=flat-square&logo=patreon&logoColor=fff)](https://www.patreon.com/MlgmXyysd) -->
 
 ## 📫 Get in Touch
 
@@ -75,27 +75,29 @@
 
 ## 💻 Working Environment
 
-![Windows 11 Pro Workstation 24H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2024H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro Workstation 25H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2024H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows Server 2025 Datacenter 24H2](https://img.shields.io/badge/Windows%20Server%202025%20Datacenter%2024H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 24.04.1](https://img.shields.io/badge/Ubuntu%2024.04.1-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android 16 Baklava](https://img.shields.io/badge/Android%2016%20Baklava-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS 5.0](https://img.shields.io/badge/Wear%20OS%205.0-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
-![iOS 18.2](https://img.shields.io/badge/iOS%2026-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![iOS 26.1](https://img.shields.io/badge/iOS%2026.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
 ### Phone / Pad
 
 ![21KE M2S](https://img.shields.io/badge/21KE%20M2S-e62c1b?style=flat-square)
+![BLUEFOX NX1](https://img.shields.io/badge/BLUEFOX%20NX1-008FD6?style=flat-square)
 ![Asus Smartphone for Snapdragon Insiders](https://img.shields.io/badge/Asus%20Smartphone%20for%20Snapdragon%20Insiders-000000?style=flat-square&logo=asus&logoColor=ffffff)
-![Duoqin Qin 3 Ultra](https://img.shields.io/badge/Duoqin%20Qin%203%20Ultra-03e2c9?style=flat-square)
-![Duoqin Qin 3 Pro](https://img.shields.io/badge/Duoqin%20Qin%203%20Pro-03e2c9?style=flat-square)
+![Duoqin F25](https://img.shields.io/badge/Duoqin%20F22%20Pro-03e2c9?style=flat-square)
 ![Duoqin F22 Pro](https://img.shields.io/badge/Duoqin%20F22%20Pro-03e2c9?style=flat-square)
 ![Duoqin F22](https://img.shields.io/badge/Duoqin%20F22-03e2c9?style=flat-square)
 ![Duoqin F21 Pro+](https://img.shields.io/badge/Duoqin%20F21%20Pro+-03e2c9?style=flat-square)
 ![Duoqin F21 Pro](https://img.shields.io/badge/Duoqin%20F21%20Pro-03e2c9?style=flat-square)
 ![Duoqin F21](https://img.shields.io/badge/Duoqin%20F21-03e2c9?style=flat-square)
 ![Duoqin K201](https://img.shields.io/badge/Duoqin%20K201-03e2c9?style=flat-square)
+![Duoqin Qin 3 Ultra](https://img.shields.io/badge/Duoqin%20Qin%203%20Ultra-03e2c9?style=flat-square)
+![Duoqin Qin 3 Pro](https://img.shields.io/badge/Duoqin%20Qin%203%20Pro-03e2c9?style=flat-square)
 ![Duoqin Qin 2 Pro](https://img.shields.io/badge/Duoqin%20Qin%202%20Pro-03e2c9?style=flat-square)
 ![Duoqin Qin 2](https://img.shields.io/badge/Duoqin%20Qin%202-03e2c9?style=flat-square)
 ![Google Pixel 7](https://img.shields.io/badge/Google%20Pixel%207-4285f4?style=flat-square&logo=google&logoColor=ffffff)
@@ -117,6 +119,7 @@
 ![Meizu 21](https://img.shields.io/badge/Meizu%2021-048dff?style=flat-square&logo=meizu&logoColor=ffffff)
 ![Meizu 15](https://img.shields.io/badge/Meizu%2015-048dff?style=flat-square&logo=meizu&logoColor=ffffff)
 ![Nothing CMF Phone (1)](https://img.shields.io/badge/Nothing%20CMF%20Phone%20%281%29-d31c23?style=flat-square)
+![Nothing Phone (3a)](https://img.shields.io/badge/Nothing%20CMF%20Phone%20%283a%29-d31c23?style=flat-square)
 ![Nothing Phone (2a)](https://img.shields.io/badge/Nothing%20CMF%20Phone%20%282a%29-d31c23?style=flat-square)
 ![Nothing Phone (2)](https://img.shields.io/badge/Nothing%20CMF%20Phone%20%282%29-d31c23?style=flat-square)
 ![Nothing Phone (1)](https://img.shields.io/badge/Nothing%20CMF%20Phone%20%281%29-d31c23?style=flat-square)
@@ -179,15 +182,16 @@
 ![Xiaomi Mi 6X Miku](https://img.shields.io/badge/Xiaomi%20Mi%206X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 5X](https://img.shields.io/badge/Xiaomi%20Mi%205X-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Max 2](https://img.shields.io/badge/Xiaomi%20Mi%20Max%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi K20 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Note 14 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2014%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Note 13 Pro+](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2013%20Pro%2b-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Note 10](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2010-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Note 4X Miku](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%204X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi 9](https://img.shields.io/badge/Xiaomi%20Redmi%209-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi REDMI K20 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi REDMI Note 14 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2014%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi REDMI Note 13 Pro+](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2013%20Pro%2b-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi REDMI Note 10](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2010-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi REDMI Note 4X Miku](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%204X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi REDMI 9](https://img.shields.io/badge/Xiaomi%20Redmi%209-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![ZTE U880](https://img.shields.io/badge/ZTE%20U880-008fd5?style=flat-square)
 
 ![Apple iPhone 16e](https://img.shields.io/badge/Apple%20iPhone%2016e-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple iPhone SE Gen 3](https://img.shields.io/badge/Apple%20iPhone%20SE%20Gen%203-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 13 mini](https://img.shields.io/badge/Apple%20iPhone%2013%20mini-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone X](https://img.shields.io/badge/Apple%20iPhone%20X-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 6s](https://img.shields.io/badge/Apple%20iPhone%206s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
@@ -202,7 +206,8 @@
 ![Lenovo Xiaoxin Pad Pro 12.7 Snapdragon](https://img.shields.io/badge/Lenovo%20Xiaoxin%20Pad%20Pro%2012.7%20Snapdragon-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 ![OnePlus Pad 3 / Pad 2 Pro](https://img.shields.io/badge/OnePlus%20Pad%203%20%2f%20Pad%202%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Pad 2 / Pad Pro](https://img.shields.io/badge/OnePlus%20Pad%202%20%2f%20Pad%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OPPO Pad 5 / OnePlus Pad 2 2025](https://img.shields.io/badge/OPPO%20Pad%205%20%2f%20OnePlus%20Pad%202%202025-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
+![OnePlus Pad (2023) / OPPO Pad 2](https://img.shields.io/badge/OnePlus%20Pad%20%282023%29%20%2f%20OPPO%20Pad%202-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OPPO Pad 5 / OnePlus Pad 2 (2025)](https://img.shields.io/badge/OPPO%20Pad%205%20%2f%20OnePlus%20Pad%202%20%282025%29-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO Pad 4 Pro](https://img.shields.io/badge/OPPO%20Pad%204%20Pro-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO Pad](https://img.shields.io/badge/OPPO%20Pad-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![Onyx BOOX Note X5](https://img.shields.io/badge/Onyx%20BOOX%20Note%20X5-BE735B?style=flat-square)
@@ -210,7 +215,7 @@
 ![Xiaomi Mi Pad 4 Plus National Day](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%204%20Plus%20National%20Day-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Pad 4](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
-![Nokia Asha 3080](https://img.shields.io/badge/Nokia%20Asha%203080-124191?style=flat-square&logo=nokia&logoColor=ffffff)
+![Nokia Asha 308](https://img.shields.io/badge/Nokia%20Asha%20308-124191?style=flat-square&logo=nokia&logoColor=ffffff)
 
 ### Wearable / IoT / Others
 
@@ -225,10 +230,12 @@
 ![OnePlus Watch 3 / OPPO Watch X2](https://img.shields.io/badge/OnePlus%20Watch%203%20%2f%20OPPO%20Watch%20X2-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Watch 2 / OPPO Watch X](https://img.shields.io/badge/OnePlus%20Watch%202%20%2f%20OPPO%20Watch%20X-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Watch 2R / OnePlus Watch 2 LTE](https://img.shields.io/badge/OnePlus%20Watch%202R%20%2f%20OnePlus%20Watch%202%20LTE-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OPPO Watch X2 Mini](https://img.shields.io/badge/OPPO%20Watch%20X2%20Mini-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO Watch 4 Pro](https://img.shields.io/badge/OPPO%20Watch%204%20Pro-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO Watch 41mm Bluetooth](https://img.shields.io/badge/OPPO%20Watch%2041mm%20Bluetooth-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![Xiaomi Mi Watch 2 Pro LTE](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%202%20Pro%20LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi Watch 2](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Watch Premium](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%20Premium-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Watch](https://img.shields.io/badge/Xiaomi%20Mi%20Watch-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
@@ -239,7 +246,10 @@
 ![Xiaomi MIJIA Glasses Camera / Superhexa Vision](https://img.shields.io/badge/Xiaomi%20MIJIA%20Glasses%20Camera%20%2f%20Superhexa%20Vision-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square&logo=meizu&logoColor=ffffff)
+
+![JMGO P3S](https://img.shields.io/badge/JMGO%20P3S-1A1A1A?style=flat-square)
 ![Hisense ULED TV VIDAA-93](https://img.shields.io/badge/Hisense%20ULED%20TV%20VIDAA_93-00A19C?style=flat-square)
+![Xiaomi REDMI TV X75 2025](https://img.shields.io/badge/Xiaomi%20REDMI%20TV%20X75%202025-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ![OnePlus Watch Cobalt / Cyberpunk 2077](https://img.shields.io/badge/OnePlus%20Watch%20Cobalt%20%2f%20Cyberpunk%202077-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OPPO Band](https://img.shields.io/badge/OPPO%20Band-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
@@ -262,6 +272,7 @@
 ![Xiaomi Mi AIoT Router AX1800](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX1800-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi WiFi Router HD](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20HD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi WiFi Router Pro](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![ZTE Router XunTian BE5100 Pro+](https://img.shields.io/badge/ZTE%20Router%20XunTian%20BE5100%20Pro%2b-008fd5?style=flat-square)
 
 ### Computer / Demoboard
 
@@ -272,10 +283,12 @@
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Lenovo Legion Y9000P IAH7H / 5 Pro 16IAH7H (82RF / i7 / 3070 Ti)](https://img.shields.io/badge/Lenovo%20Legion%20Y9000P%20IAH7H%20%2f%205%20Pro%2016IAH7H%20(82RF%20%2f%20i7%20%2f%203070%20Ti)-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
+![Microsoft Surface Pro 9 for Business i7 32G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%209%20for%20Business%20i7%2032G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Microsoft Surface Pro 4 i7 16G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204%20i7%2016G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![MoreFine M8S](https://img.shields.io/badge/MoreFine%20M8S-ffffff?style=flat-square)
 ![NINGMEI CR160R](https://img.shields.io/badge/NINGMEI%20CR160R-ca3c42?style=flat-square)
 ![Xiaomi Book 12.4 / Book S 12.4](https://img.shields.io/badge/Xiaomi%20Book%2012.4%20%2f%20Book%20S%2012.4-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi RedmiBook 15](https://img.shields.io/badge/Xiaomi%20RedmiBook%2015-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Raspberry Pi 5 8G](https://img.shields.io/badge/Raspberry%20Pi%205%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
