@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-plus-theta.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&show=prs_merged_percentage&include_all_commits=true&custom_title=Meow~&count_private=true">
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&show=prs_merged_percentage&include_all_commits=true&custom_title=Meow~&count_private=true">
 
 # NekoYuzu (MlgmXyysd) 🔭
 
@@ -7,7 +7,7 @@
 💬 a.k.a. Jaida Wu, Yuze Wu.
 > ⚡ A cat who is passionate about technologies, open-source, intelligence, convenience, etc.
 
-<img align="right" src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 - A cat, nyaa~~~ 🐱
 - Chinese / 23 y.o. / [DSD Cis-gender](https://endo-ern.eu/rare-sex-development-maturation-conditions/46xy-dsd/) Girl
@@ -116,6 +116,7 @@
 ![Huawei Honor 4X Snapdragon](https://img.shields.io/badge/Huawei%20Honor%204X%20Snapdragon-000000?style=flat-square&logo=honor&logoColor=ffffff)
 ![Huawei Honor 4X Kirin](https://img.shields.io/badge/Huawei%20Honor%204X%20Kirin-000000?style=flat-square&logo=honor&logoColor=ffffff)
 ![iFlytek iTranslator 2.0](https://img.shields.io/badge/iFlytek%20iTranslator%202.0-0d3552?style=flat-square)
+![iKKO MindOne Pro](https://img.shields.io/badge/iKKO%20MindOne%20Pro-000000?style=flat-square)
 ![Jabrbox S502](https://img.shields.io/badge/Jabrbox%20S502-ffffff?style=flat-square)
 ![LG Wing](https://img.shields.io/badge/LG%20Wing-a50034?style=flat-square&logo=lg&logoColor=ffffff)
 ![LG G6](https://img.shields.io/badge/LG%20G6-a50034?style=flat-square&logo=lg&logoColor=ffffff)
@@ -127,6 +128,7 @@
 ![Nothing Phone (2)](https://img.shields.io/badge/Nothing%20Phone%20%282%29-000000?style=flat-square)
 ![Nothing Phone (1)](https://img.shields.io/badge/Nothing%20Phone%20%281%29-000000?style=flat-square)
 ![OnePlus Open Apex Edition / OPPO Find N3 Premium Edition](https://img.shields.io/badge/OnePlus%20Open%20Apex%20Edition%20%2f%20OPPO%20Find%20N3%20Premium%20Edition-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 15T / 15s](https://img.shields.io/badge/OnePlus%2015T%20%2f%2015s-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 15R / Ace 6T Genshin Impact](https://img.shields.io/badge/OnePlus%2015R%20%2f%20Ace%206T%20Genshin%20Impact-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus Nord 5](https://img.shields.io/badge/OnePlus%20Nord%205-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 13T / 13s](https://img.shields.io/badge/OnePlus%2013T%20%2f%2013s-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
@@ -177,7 +179,6 @@
 ![Unihertz Jelly 2S / Star](https://img.shields.io/badge/Unihertz%20Jelly%202S%20%2f%20Star-241f21?style=flat-square)
 ![Unihertz Jelly 2](https://img.shields.io/badge/Unihertz%20Jelly%202-241f21?style=flat-square)
 ![vivo X7 Plus](https://img.shields.io/badge/vivo%20X7%20Plus-415fff?style=flat-square&logo=vivo&logoColor=000000)
-![vivo iQOO Neo 9S Pro](https://img.shields.io/badge/vivo%20iQOO%20Neo%209S%20Pro-415fff?style=flat-square&logo=vivo&logoColor=000000)
 ![Xiaomi Mi 17 Ultra by Leica](https://img.shields.io/badge/Xiaomi%20Mi%2017%20Ultra%20by%20Leica-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 17 Pro](https://img.shields.io/badge/Xiaomi%20Mi%2017%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 15 Ultra](https://img.shields.io/badge/Xiaomi%20Mi%2015%20Ultra-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -197,8 +198,9 @@
 ![Xiaomi REDMI Note 10](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2010-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi REDMI Note 4X Miku](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%204X%20Miku-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi REDMI 9](https://img.shields.io/badge/Xiaomi%20Redmi%209-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![ZTE Nubia Z80 Ultra](https://img.shields.io/badge/ZTE%20Nubia%20Z80%20Ultra-008fd5?style=flat-square)
 ![ZTE Nubia M153 Doubao AI Smartphone](https://img.shields.io/badge/ZTE%20Nubia%20M153%20Doubao%20AI%20Smartphone-008fd5?style=flat-square)
+![ZTE Nubia RedMagic 11 Air](https://img.shields.io/badge/ZTE%20Nubia%20RedMagic%2011%20Air-008fd5?style=flat-square)
+![ZTE Nubia Z80 Ultra](https://img.shields.io/badge/ZTE%20Nubia%20Z80%20Ultra-008fd5?style=flat-square)
 ![ZTE U880](https://img.shields.io/badge/ZTE%20U880-008fd5?style=flat-square)
 
 ![Apple iPhone 16e](https://img.shields.io/badge/Apple%20iPhone%2016e-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
@@ -246,6 +248,9 @@
 ![OPPO Watch 4 Pro](https://img.shields.io/badge/OPPO%20Watch%204%20Pro-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO Watch 2 ECG](https://img.shields.io/badge/OPPO%20Watch%202%20ECG-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![OPPO Watch 41mm Bluetooth](https://img.shields.io/badge/OPPO%20Watch%2041mm%20Bluetooth-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
+![Xiaomi Mi Watch 5 eSIM](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%205%20eSIM-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi Watch 5](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi Watch 2 Pro LTE Development Board](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%202%20Pro%20LTE%20Development%20Board-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Watch 2 Pro LTE](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%202%20Pro%20LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Watch 2 Pro](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%202%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi Watch 2](https://img.shields.io/badge/Xiaomi%20Mi%20Watch%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -257,8 +262,8 @@
 ![Google Glass Explorer Edition XE-C](https://img.shields.io/badge/Google%20Glass%20Explorer%20Edition%20XE_C-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![OPPO Air Glass](https://img.shields.io/badge/OPPO%20Air%20Glass-0f743d?style=flat-square&logo=oppo&logoColor=ffffff)
 ![Xiaomi Mijia Glasses Camera / Superhexa Vision](https://img.shields.io/badge/Xiaomi%20Mijia%20Glasses%20Camera%20%2f%20Superhexa%20Vision-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Smart Audio Glasses](https://img.shields.io/badge/Xiaomi%20Smart%20Audio%20Glasses-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mijia Smart Audio Glasses 2](https://img.shields.io/badge/Xiaomi%20Mijia%20Smart%20Audio%20Glasses%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Smart Audio Glasses](https://img.shields.io/badge/Xiaomi%20Smart%20Audio%20Glasses-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square&logo=meizu&logoColor=ffffff)
 
@@ -298,6 +303,7 @@
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Lenovo Legion Y9000P IAH7H / 5 Pro 16IAH7H (82RF / i7 / 3070 Ti)](https://img.shields.io/badge/Lenovo%20Legion%20Y9000P%20IAH7H%20%2f%205%20Pro%2016IAH7H%20(82RF%20%2f%20i7%20%2f%203070%20Ti)-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
+![Microsoft Surface Book 3 i7 RTX 32G](https://img.shields.io/badge/Microsoft%20Surface%20Book%203%20i7%20RTX%2032G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Microsoft Surface Pro 9 for Business i7 32G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%209%20for%20Business%20i7%2032G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Microsoft Surface Pro 4 i7 16G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204%20i7%2016G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![MoreFine M8S](https://img.shields.io/badge/MoreFine%20M8S-ffffff?style=flat-square)
@@ -305,11 +311,16 @@
 ![Steam Deck OLED](https://img.shields.io/badge/Steam%20Deck%20OLED-1A9FFF?style=flat-square&logo=steamdeck&logoColor=ffffff)
 
 ![NXP i.MX7D Android Things Starter Kit](https://img.shields.io/badge/NXP%20i.MX7D%20Android%20Things%20Starter%20Kit-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Raspberry Pi 5 8G](https://img.shields.io/badge/Raspberry%20Pi%205%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
-![Raspberry Pi 4 Model B 8G](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B%208G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi 5 16G](https://img.shields.io/badge/Raspberry%20Pi%205%2016G-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi 3 Model B](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi Zero 2 WH](https://img.shields.io/badge/Raspberry%20Pi%20Zero%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Zero WH](https://img.shields.io/badge/Raspberry%20Pi%20Zero%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi Pico 2 WH](https://img.shields.io/badge/Raspberry%20Pi%20Pico%202%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi Pico 2 W](https://img.shields.io/badge/Raspberry%20Pi%20Pico%202%20W-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi Pico 2](https://img.shields.io/badge/Raspberry%20Pi%20Pico%202-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi Pico WH](https://img.shields.io/badge/Raspberry%20Pi%20Pico%20WH-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
+![Raspberry Pi Pico W](https://img.shields.io/badge/Raspberry%20Pi%20Pico%20W-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![BBC Micro:bit](https://img.shields.io/badge/BBC%20Micro:bit-00ED00?style=flat-square&logo=micro:bit&logoColor=ffffff)
 ![M5Stack Stick C](https://img.shields.io/badge/M5Stack%20Stick%20C-0069A3?style=flat-square)
@@ -334,50 +345,50 @@ Fingerprint = 1800 8755 78B1 284C 964D  1982 1144 6879 AC55 C869
 ## 👯 Come and play with my some fun projects:
 
 <a href="https://rabbit.meowcat.org/">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MeowCat-Studio&repo=Rabbit-Go-Countdown&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MeowCat-Studio&repo=Rabbit-Go-Countdown&show_owner=true" />
 </a>
 
 <a href="https://password.meowcat.org/">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MeowCat-Studio&repo=MeowPassword&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MeowCat-Studio&repo=MeowPassword&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/GooTool">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=GooTool&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=GooTool&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/Magic-Splash-Wand">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=Magic-Splash-Wand&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=Magic-Splash-Wand&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/AngryBirdsLevelEditor">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=AngryBirdsLevelEditor&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=AngryBirdsLevelEditor&show_owner=true" />
 </a>
 
 <a href="https://music.meowcat.org/">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=MusicBox&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=MusicBox&show_owner=true" />
 </a>
 
 <a href="https://github.com/Grasscutters/GrassClipper-X">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Grasscutters&repo=GrassClipper-X&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Grasscutters&repo=GrassClipper-X&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/F21ProInjector">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=F21ProInjector&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=F21ProInjector&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/DDLC-Plus-Asset-Decrypter">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=DDLC-Plus-Asset-Decrypter&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=DDLC-Plus-Asset-Decrypter&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/php-adb">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=php-adb&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=php-adb&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/Bad-Piggies-Progress-Crypto">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=Bad-Piggies-Progress-Crypto&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=Bad-Piggies-Progress-Crypto&show_owner=true" />
 </a>
 
 <a href="https://github.com/MlgmXyysd/libil2cpp">
-  <img align="left" src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=MlgmXyysd&repo=libil2cpp&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MlgmXyysd&repo=libil2cpp&show_owner=true" />
 </a>
 
