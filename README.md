@@ -108,8 +108,10 @@
 ![Google Pixel XL](https://img.shields.io/badge/Google%20Pixel%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![HTC 5G Hub](https://img.shields.io/badge/HTC%205G%20Hub-a5cf4c?style=flat-square&logo=htc&logoColor=ffffff)
 ![Huawei nova 13 Pro](https://img.shields.io/badge/Huawei%20nova%2013%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Huawei P60 Pro](https://img.shields.io/badge/Huawei%20P60%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei Mate XT](https://img.shields.io/badge/Huawei%20Mate%20XT-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Mate 10](https://img.shields.io/badge/Huawei%20Mate%2010-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei P60 Pro](https://img.shields.io/badge/Huawei%20P60%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei P40 Pro](https://img.shields.io/badge/Huawei%20P40%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei P10 Plus](https://img.shields.io/badge/Huawei%20P10%20Plus-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei P9](https://img.shields.io/badge/Huawei%20P9-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Honor 8](https://img.shields.io/badge/Honor%208-000000?style=flat-square&logo=honor&logoColor=ffffff)
@@ -265,6 +267,7 @@
 ![Xiaomi Mijia Smart Audio Glasses 2](https://img.shields.io/badge/Xiaomi%20Mijia%20Smart%20Audio%20Glasses%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Smart Audio Glasses](https://img.shields.io/badge/Xiaomi%20Smart%20Audio%20Glasses-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
+![DJI RC 2](https://img.shields.io/badge/DJI%20RC%202-000000?style=flat-square&logo=dji&logoColor=ffffff)
 ![Meizu Gravity A8](https://img.shields.io/badge/Meizu%20Gravity%20A8-048dff?style=flat-square&logo=meizu&logoColor=ffffff)
 
 ![JMGO P5](https://img.shields.io/badge/JMGO%20P5-1A1A1A?style=flat-square)
@@ -297,13 +300,13 @@
 
 ### Computer / Demoboard
 
-![Asus ExpertBook B3200](https://img.shields.io/badge/Asus%20ExpertBook%20B3200-000000?style=flat-square&logo=asus&logoColor=ffffff)
+![Asus ExpertPad B3200DQ2A](https://img.shields.io/badge/Asus%20ExpertPad%20B3200DQ2A-000000?style=flat-square&logo=asus&logoColor=ffffff)
 ![Funhouse F10 MPro i3 16G](https://img.shields.io/badge/Funhouse%20F10%20MPro%20i3%2016G-5e5e5e?style=flat-square)
 ![Intel NUC NUC8i7HVK](https://img.shields.io/badge/Intel%20NUC%20NUC8i7HVK-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel NUC NUC7i7DNHE](https://img.shields.io/badge/Intel%20NUC%20NUC7i7DNHE-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Intel Compute Stick STK2mv64CC](https://img.shields.io/badge/Intel%20Compute%20Stick%20STK2mv64CC-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 ![Lenovo Legion Y9000P IAH7H / 5 Pro 16IAH7H (82RF / i7 / 3070 Ti)](https://img.shields.io/badge/Lenovo%20Legion%20Y9000P%20IAH7H%20%2f%205%20Pro%2016IAH7H%20(82RF%20%2f%20i7%20%2f%203070%20Ti)-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
-![Microsoft Surface Book 3 i7 RTX 32G](https://img.shields.io/badge/Microsoft%20Surface%20Book%203%20i7%20RTX%2032G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
+![Microsoft Surface Book 3 for Business i7 RTX 32G](https://img.shields.io/badge/Microsoft%20Surface%20Book%203%20for%20Business%20i7%20RTX%2032G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Microsoft Surface Pro 9 for Business i7 32G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%209%20for%20Business%20i7%2032G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Microsoft Surface Pro 4 i7 16G](https://img.shields.io/badge/Microsoft%20Surface%20Pro%204%20i7%2016G-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![MoreFine M8S](https://img.shields.io/badge/MoreFine%20M8S-ffffff?style=flat-square)
